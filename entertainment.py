@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 import media
 import fresh_tomatoes
+'''We are importing things from fresh_tomatoes.py file.
+The import fresh_tomatoes can do this.
+'''
 
 
 Ironman2 = media.Movie("Ironman-2", "Action packed movie",
