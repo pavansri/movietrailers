@@ -20,4 +20,6 @@ attributes:
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
+'''As we imported webbrowser we can open the link with webbrowser.open.
+'''
         webbrowser.open(self.trailer_youtube_url)
